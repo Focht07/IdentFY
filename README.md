@@ -1,5 +1,3 @@
-markdown
-CopiarEditar
 # Sistema: IdentFY
 
 ## Problema que resolve
